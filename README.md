@@ -129,6 +129,32 @@
 
 ---
 
+### ☕ 投喂本开发者……（才、才不是找你要赞助呢！）
+
+> 如果我的开源工具确实帮到了你，想请本开发者喝杯奶茶或者赞助服务器费用的话……  
+> 哼！那、那我就勉为其难地把收款地址放这里好了！就算你投喂了，我也才不会特意对你说谢谢呢！(///)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="280">
+        <img src="assets/donate_usdt.png" width="240" alt="USDT (APTOS) 捐赠二维码" style="border-radius: 12px;" />
+        <br/>
+        <sub>扫码通过 Bybit 存入 USDT</sub>
+      </td>
+      <td align="left">
+        <p><b>💰 资产币种 (Asset)：</b> <code>USDT</code></p>
+        <p><b>🌐 所属网络 (Network)：</b> <code>APTOS</code></p>
+        <p><b>📫 钱包地址 (Wallet Address)：</b><br/>
+        <code>0xce0c3a1d7d8547eb7effd887095da438b89e3edd70e7c7e7927c244c2dd7f345</code></p>
+        <p><sub>⚠️ 提示：转账时请务必确认选择 <b>APTOS</b> 链网络，转错链本开发者可找不回来哦！</sub></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🛠️ 本大厨的御用武器库 (Tech Stack)
 
 <div align="center">
