@@ -138,7 +138,7 @@
   <table>
     <tr>
       <td align="center" width="240">
-        <img src="https://raw.githubusercontent.com/aimy1/aimy1/main/assets/donate_qr.png" width="180" alt="USDT (APTOS) 捐赠二维码" />
+        <img src="https://raw.githubusercontent.com/aimy1/amiy1/main/assets/donate_qr.png" width="180" alt="USDT (APTOS) 捐赠二维码" />
         <br/>
         <sub><b>扫码存入 USDT</b></sub>
       </td>
