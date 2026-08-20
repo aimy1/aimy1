@@ -138,7 +138,9 @@
   <table>
     <tr>
       <td align="center" width="280">
-        <img src="assets/donate_usdt.png" width="240" alt="USDT (APTOS) 捐赠二维码" style="border-radius: 12px;" />
+        <div style="background: white; padding: 12px; display: inline-block; border-radius: 16px;">
+          <img src="assets/donate_usdt.png" width="180" height="180" alt="USDT (APTOS) 捐赠二维码" style="display: block;" />
+        </div>
         <br/>
         <sub>扫码通过 Bybit 存入 USDT</sub>
       </td>
