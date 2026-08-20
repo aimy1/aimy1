@@ -137,17 +137,15 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="280">
-        <div style="background: white; padding: 12px; display: inline-block; border-radius: 16px;">
-          <img src="assets/donate_usdt.png" width="180" height="180" alt="USDT (APTOS) 捐赠二维码" style="display: block;" />
-        </div>
+      <td align="center" width="240">
+        <img src="https://raw.githubusercontent.com/aimy1/aimy1/main/assets/donate_usdt.png" width="180" alt="USDT (APTOS) 捐赠二维码" />
         <br/>
-        <sub>扫码通过 Bybit 存入 USDT</sub>
+        <sub><b>扫码存入 USDT</b></sub>
       </td>
       <td align="left">
-        <p><b>💰 资产币种 (Asset)：</b> <code>USDT</code></p>
-        <p><b>🌐 所属网络 (Network)：</b> <code>APTOS</code></p>
-        <p><b>📫 钱包地址 (Wallet Address)：</b><br/>
+        <p>💰 <b>资产币种 (Asset)：</b> <code>USDT</code></p>
+        <p>🌐 <b>所属网络 (Network)：</b> <code>APTOS</code></p>
+        <p>📫 <b>钱包地址 (Wallet Address)：</b><br/>
         <code>0xce0c3a1d7d8547eb7effd887095da438b89e3edd70e7c7e7927c244c2dd7f345</code></p>
         <p><sub>⚠️ 提示：转账时请务必确认选择 <b>APTOS</b> 链网络，转错链本开发者可找不回来哦！</sub></p>
       </td>
