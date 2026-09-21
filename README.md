@@ -9,7 +9,7 @@
 
 ---
 
-### ✦ Curated Instruments
+### ✦ Curated Instruments (核心作品矩阵)
 
 <table width="100%">
   <tr>
@@ -49,7 +49,7 @@
       <code>Flutter 3.x</code> · <code>Mihomo</code> · <code>Tray</code>
     </td>
     <td width="66%" valign="top">
-      天青蓝工业美学跨平台网络代理客户端。全功能系统托盘集成（实时上下行流速面板、毫秒级一键测速、节点无感热切），深度驱动 Mihomo 高性能内核。
+      天青蓝品牌美学跨平台网络代理客户端。全功能系统托盘集成（实时上下行流速面板、毫秒级一键测速、节点无感热切），深度驱动 Mihomo 高性能内核。
     </td>
   </tr>
   <tr>
@@ -80,15 +80,15 @@
   <table border="0" style="border: none;">
     <tr>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-stats-extended.vercel.app/api?username=aimy1&show_icons=true&locale=cn&theme=dark&hide_border=true&bg_color=0b0d13&title_color=f1f5f9&icon_color=38bdf8&text_color=94a3b8" width="100%" alt="GitHub 战绩统计" />
+        <img src="https://github-stats-extended.vercel.app/api?username=aimy1&show_icons=true&locale=cn&theme=dark&hide_border=true&bg_color=081015&title_color=1BC2E1&icon_color=1BC2E1&text_color=E2E8F0" width="100%" alt="GitHub 战绩统计" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aimy1&layout=donut&locale=cn&theme=dark&hide_border=true&bg_color=0b0d13&title_color=f1f5f9&text_color=94a3b8" width="100%" alt="主力语言分布" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aimy1&layout=donut&locale=cn&theme=dark&hide_border=true&bg_color=081015&title_color=1BC2E1&text_color=E2E8F0" width="100%" alt="主力语言分布" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimy1&theme=dark&locale=zh_Hans&hide_border=true&background=0B0D13&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" width="100%" alt="连续打卡战绩" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimy1&theme=dark&locale=zh_Hans&hide_border=true&background=081015&ring=1BC2E1&fire=1BC2E1&currStreakLabel=1BC2E1" width="100%" alt="连续打卡战绩" />
 </div>
 
 ---
